@@ -12,6 +12,8 @@
                 <!-- <li>
                     <a href="dashboard.php"><img src="assets/img/sidebar/icon-1.png" alt="icon"><span>Dashboard</span></a>
                 </li> -->
+
+
                 <li>
                     <a href="menu_kuis.php"><img src="assets/img/sidebar/icon-7.png" alt="icon"> <span>Kuisioner</span></a>
                 </li>
